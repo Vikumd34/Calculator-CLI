@@ -45,4 +45,4 @@ Calculator-CLI/
 
 ## Author
 
-Your Name
+H.K.V.Dulaksha
